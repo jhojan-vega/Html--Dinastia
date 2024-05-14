@@ -1,0 +1,103 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+h1 {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 20px;
+    
+}
+
+h2 {
+    font: bold 14px sans-serif;
+    
+    
+}
+
+header, section, footer, aside, nav,article, hgroup {
+    display: block;
+}
+
+body {
+    text-align: center;
+    
+    
+}
+.agrupar {
+    width: 960px;
+    margin: 15px auto;
+    border: 1px solid ;
+}
+
+.cabecera {
+    background-color: #ffb6c1;
+    border: 2px solid blueviolet;
+    padding: 2opx;
+}
+
+.menu {
+    background-color: aquamarine;
+    padding: 5px 30px;
+    text-align: left;
+}
+
+.menu li {
+    list-style: none;
+    padding: 5px;
+    font: bold 14px verdana;
+    display: inline-block ;
+
+}
+
+.seccion {
+    margin: 20px;
+    width: 600px;   
+    float: left;
+    
+}
+
+article {
+    background-color: aqua;
+    border: 1px solid black;
+    padding: 20px;
+    margin-bottom: 15px;
+}
+
+article footer {
+    text-align: right; 
+
+}
+
+time {
+    color: blue;
+   
+}
+.columna { 
+    width: 300px;
+    float: left;
+    margin: 20px 0;
+}
+
+.columna blockquote {
+    padding: 40px;
+    border: 1px solid black;
+    background-color: #ffb6c1;
+    margin: 20px;
+}
+
+.pie {
+    clear: both; 
+    padding: 20px;
+    background-color: aqua;
+
+}
+
+img {
+    margin: 20px;
+}
+
+p {
+    margin: 20px;
+}
